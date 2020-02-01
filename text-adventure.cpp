@@ -15,7 +15,7 @@ int main()  {
 
     std::cin >> selection;
 
-    if (selection > 4 || selection = 0) {
+    if (selection >= 4 || selection = 0) {
 
         std::cout << "Your selection is invalid, please make a choice";
 
