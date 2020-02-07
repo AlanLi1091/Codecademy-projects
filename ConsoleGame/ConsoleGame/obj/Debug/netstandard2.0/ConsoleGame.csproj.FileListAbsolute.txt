@@ -1,0 +1,8 @@
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\bin\Debug\netstandard2.0\ConsoleGame.deps.json
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\bin\Debug\netstandard2.0\ConsoleGame.dll
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\bin\Debug\netstandard2.0\ConsoleGame.pdb
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\obj\Debug\netstandard2.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\obj\Debug\netstandard2.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\obj\Debug\netstandard2.0\ConsoleGame.dll
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\obj\Debug\netstandard2.0\ConsoleGame.pdb
+C:\Users\allan\Desktop\githubtest\Codecademy-Projects\ConsoleGame\ConsoleGame\obj\Debug\netstandard2.0\ConsoleGame.csprojAssemblyReference.cache
